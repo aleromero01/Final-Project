@@ -71,7 +71,7 @@ article.container {
 }
 #cal{
     font-family:'Quicksand',sans-serif;
-    width:725px;
+    width:60%;
     height:550px;
     position:relative;
     margin:auto;
@@ -139,8 +139,8 @@ h2 {
     top:0;
     left:0;
     cursor:pointer;
-    width:100px;
-    height:100px;
+    width:14.2%;
+    height:20%;
     font-size:18px;
     text-align:center;
     line-height:100px;
@@ -274,7 +274,7 @@ input[type="radio"]#two:checked ~ .bigDate[prop="2"],input[type="radio"]#one:che
 .day[prop="7"],.day[prop="14"],.day[prop="21"],.day[prop="28"]{ left:600px; }
 
 #tips, #puns {
-  width:280px;
+  width:19%;
   margin:auto;
   font-family:'Quicksand', sans-serif;
   font-size:18px;
